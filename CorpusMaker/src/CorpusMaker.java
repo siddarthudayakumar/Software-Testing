@@ -249,7 +249,7 @@ public class CorpusMaker {
         Map<String, Integer> CorpusWordFreq = new HashMap<String, Integer>();
         Doc[] docHighestUnique = new Doc[3];
         Doc[] docLowestUnique = new Doc[3];
-        File startingDir = new File("C:\\Users\\Kunal-Kapoor\\Documents\\NetBeansProjects\\JavaApplication4\\oscar\\oscar12.1-61"); // current directory
+        File startingDir = new File("D:\\workspace\\CorpusMaker\\ant"); // current directory
 
         //File startingDir = new File("/Users/1116743/Documents");
         String[] fileType = {"java"};
